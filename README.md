@@ -7,7 +7,7 @@
 
 **To run**
 
-`clone https://github.com/snbiju/address-book.git / download
+`clone https://github.com/snbiju/addres-book.git / download
 
 go to address-book-master
 
