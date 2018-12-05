@@ -2,7 +2,7 @@
 
 `Java 8 or higher`
 
-`Spring boot 2.1.0.RELEASE Apache Maven 4.0.0 Postman or any other REST API Testing tool (Can use swagger documentation as well)
+`Spring boot 2.1.0.RELEASE Apache Maven 4.0.0 Postman or any other REST API Testing tool.git 
 `
 
 **To run**
